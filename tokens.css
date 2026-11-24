@@ -1,0 +1,4 @@
+/* Design Tokens WCAG AAA (Contraste >= 7:1 y escalado tipográfico) */
+:root {
+  --font-scale: 1;
+}
